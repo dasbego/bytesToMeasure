@@ -1,6 +1,6 @@
 # Bytes to Size
 
-## Run the function
+## Test the function
 
 `$node bytes.js`
 
